@@ -1,5 +1,0 @@
----
-Title:
-Draft: true
-Category:
----
